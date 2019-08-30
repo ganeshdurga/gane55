@@ -1,0 +1,201 @@
+20fail
+33fail
+63second class
+81dist
+70first class
+6fail
+89dist
+71first class
+95dist
+88dist
+74first class
+99dist
+42pass
+30fail
+17fail
+19fail
+74first class
+9fail
+97dist
+5fail
+60second class
+27fail
+75first class
+79first class
+90dist
+71first class
+29fail
+52pass
+7fail
+92dist
+21fail
+52pass
+37fail
+43pass
+41pass
+100dist
+87dist
+48pass
+41pass
+37fail
+40fail
+13fail
+43pass
+93dist
+61second class
+68first class
+4fail
+48pass
+12fail
+25fail
+82dist
+58second class
+93dist
+9fail
+48pass
+93dist
+59second class
+85dist
+91dist
+99dist
+77first class
+38fail
+64second class
+4fail
+68first class
+22fail
+62second class
+99dist
+90dist
+18fail
+33fail
+26fail
+69first class
+61second class
+65second class
+47pass
+85dist
+82dist
+18fail
+23fail
+68first class
+82dist
+40fail
+83dist
+10fail
+63second class
+59second class
+28fail
+96dist
+48pass
+41pass
+2fail
+58second class
+42pass
+60second class
+3fail
+49pass
+40fail
+26fail
+39fail
+6fail
+5fail
+58second class
+95dist
+93dist
+56second class
+89dist
+33fail
+45pass
+1fail
+9fail
+77first class
+67first class
+69first class
+32fail
+96dist
+98dist
+82dist
+94dist
+5fail
+64second class
+35fail
+4fail
+43pass
+77first class
+31fail
+69first class
+28fail
+2fail
+63second class
+98dist
+45pass
+57second class
+80first class
+17fail
+63second class
+24fail
+46pass
+91dist
+55pass
+75first class
+27fail
+84dist
+95dist
+39fail
+65second class
+35fail
+89dist
+10fail
+65second class
+5fail
+68first class
+47pass
+21fail
+76first class
+72first class
+1fail
+16fail
+19fail
+62second class
+88dist
+62second class
+32fail
+82dist
+4fail
+65second class
+21fail
+88dist
+52pass
+70first class
+72first class
+53pass
+92dist
+40fail
+31fail
+37fail
+51pass
+10fail
+4fail
+13fail
+96dist
+80first class
+19fail
+37fail
+58second class
+30fail
+98dist
+36fail
+4fail
+46pass
+63second class
+9fail
+28fail
+29fail
+67first class
+14fail
+96dist
+2fail
+92dist
+75first class
+44pass
